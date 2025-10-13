@@ -3,3 +3,5 @@ implicit
 pgvector
 psycopg[binary]
 SQLAlchemy
+
+# Update: 2025-10-13
